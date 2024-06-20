@@ -17,28 +17,28 @@ export const projectsData = [
         image: Work2,
         title: "Property Pass",
         category: "app",
-        link: "https://github.com/ashutosh0079/PropertyPass"
+        link: "https://github.com/ashutosh0079/Property-Pass.git"
     },
     {
         id: 3,
         image: Work3,
         title: "Sales dashboard (POWERBI)",
         category: "design",
-        link: "https://github.com/ashutosh0079/SalesDashboard"
+        link: "https://github.com/ashutosh0079/Sales_dashboard-POWERBI.git"
     },
     {
         id: 4,
         image: Work4,
         title: "Quiz website",
         category: "app",
-        link: "https://github.com/ashutosh0079/QuizWebsite"
+        link: "https://github.com/ashutosh0079/Quiz_webite.git"
     },
     {
         id: 5,
         image: Work5,
         title: "Netflix clone",
         category: "web",
-        link: "https://github.com/ashutosh0079/NetflixClone"
+        link: "https://github.com/ashutosh0079/netflix.git"
     },
 ];
 
