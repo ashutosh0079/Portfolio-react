@@ -8,9 +8,9 @@ export const projectsData = [
     {
         id: 1,
         image: Work1,
-        title: "Booking MERN",
+        title: "Real-Estate MERN",
         category: "web",
-        link: "https://github.com/ashutosh0079/BookingMERN"
+        link: "https://real-estate-mern-seven.vercel.app/"
     },
     {
         id: 2,
