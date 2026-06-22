@@ -13,9 +13,12 @@ const About = () => {
             <img src={AboutImg} alt="" className="about__img" />
             <div className="about__data">
                 <Info/>
-                <p className="about__description">
-                Full-stack developer || passion for crafting seamless, dynamic web experiences. Expertise in both frontend and backend development, merge aesthetic design with robust functionality to create user-friendly applications.
-                </p>
+              <p className="about__description">
+                    I am a Data Analyst with experience in SQL, Excel, Python, Power BI, and data automation. 
+                    During my time at Paytm, I worked on data extraction, reporting, reconciliation, and automated 
+                    tracking solutions that improved operational efficiency. I enjoy solving business problems through 
+                    data-driven insights and am constantly learning new technologies in analytics, cloud, and AI.
+              </p>
                 <a download="" href={cv} className="button button--flex">Download CV
                 <svg
                 class="button__icon"
