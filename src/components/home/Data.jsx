@@ -56,10 +56,7 @@ const Data = () => {
         </h1>
         <h3 className="home__subtitle">Data Analyst | AI Enthusiast</h3>
         <p className="home__description">
-        I'm a Data Analyst with experience in SQL, Excel, Python, and Power BI.
-        Enjoy transforming complex data into meaningful insights, building
-        interactive dashboards, and automating reporting processes to support
-        data-driven decision-making.
+        Passionate Data Analyst skilled in SQL, Python, Excel, and Power BI, focused on turning data into actionable business insights.
         </p>
         <div style={{ marginBottom: '20px' }}></div>
         <a href="#contact" className="button button--flex">
